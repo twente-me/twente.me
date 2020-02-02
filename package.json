@@ -1,0 +1,14 @@
+{
+  "name": "twente.me",
+  "version": "1.0.0",
+  "repository": "git@github.com:TwenteMe/twente.me",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "site",
+    "serve": "site --serve"
+  },
+  "devDependencies": {
+    "@staart/site": "^1.13.3"
+  }
+}
