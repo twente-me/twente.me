@@ -1,0 +1,13 @@
+{
+  "title": "Twente.me",
+  "themeColor": "#f00000",
+  "textColor": "#2d0000",
+  "linkColor": "#5d0000",
+  "navbar": [
+    "[Docs](/)",
+    "[Getting started](/getting-started)",
+    "[Blog](/blog)",
+    "[GitHub](https://github.com/TwenteMe/twente.me)"
+  ],
+  "twitterPublisher": "AnandChowdhary"
+}
