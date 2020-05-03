@@ -15,6 +15,7 @@ Twente.me is the Twente community domain. If you're building a website for an or
 
 - Twente Creates - https://creates.twente.me
 - Twente License - https://license.twente.me
+- Cofuturology podcast - https://cofuturology.twente.me
 
 ## 📃 License
 
